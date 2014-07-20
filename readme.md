@@ -43,7 +43,7 @@ You have two ways of viewing the FGx Aircraft files:
 Latest revisions of the aircraft browser / viewers:
 
 * [FGx Aircraft Loader]( http://fgx.github.io/fgx-aircraft-loader/load-one.html )
-* [FGx Aircraft Overview]( http://fgx.github.io/fgx-aircraft-overview/latest.html )
+* [FGx Aircraft Overview]( http://fgx.github.io/fgx-aircraft-overview/r4/aircraft-overview.html )
 
 See also the Read Me files for the browser / viewers for details on features and road maps:
 
